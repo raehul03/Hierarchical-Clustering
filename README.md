@@ -1,0 +1,1 @@
+This repository contains a Python implementation of hierarchical clustering applied to the "Mall Customers" dataset. The project explores customer segmentation based on annual income and spending score using Agglomerative Clustering with Ward's linkage method.
